@@ -50,7 +50,6 @@ SN123UA220IA05.0PA120UB221IB05.1PB122UC219IC05.2E04567P8
 - Real-time WiFi/OLED updates confirmed.  
 - Reliable data posting to server.  
 
-![Gateway Test Result](Result.jpg)
 
 ## 🚀 Future Work
 - Add **MQTT support** for more scalable IoT integration.  
